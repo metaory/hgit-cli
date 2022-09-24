@@ -1,5 +1,5 @@
 
-# :zap: [[ Poject moved to [github/mxflow](https://github.com/metaory/mxflow) [npm/mxflow](https://www.npmjs.com/package/mxflow) ]]
+# :zap: [[ Poject moved to [npm/mxflow](https://www.npmjs.com/package/mxflow) ]]
 
 ---
 ---
